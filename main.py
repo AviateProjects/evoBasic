@@ -1,4 +1,4 @@
-g=open("/home/pi/projects/evoBasic/log.txt","a")
+g=open("./log.txt","a")
 seed=0
 act=0
 seed=float(input("Select Seed:"))
